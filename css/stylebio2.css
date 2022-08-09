@@ -1,48 +1,4 @@
 *{
-    background-color: rgb(238, 240, 163);
+    background-color: rgb(159, 204, 235);
     margin: 0px;
 }
-
-h1{
-    color: darkgreen;
-    text-align: center;
-    font-weight: bold;
-}
-
-h2{
-    text-align: center;
-    color: darkgreen;
-    font-size: xx-large;
-    font-weight: bold;
-
-}
-
-h3{
-    text-align: center;
-    color: darkgreen;
-}
-
-h4{
-    text-align: center;
-}
-
-h5{
-
-}
-
-h6{
-
-}
-
-ul{
-    text-align: center;
-}
-
-li{
-    display: inline-block;
-    background-color: lightcoral;
-}
-#pie{
-    text-align: center;
-}
-
